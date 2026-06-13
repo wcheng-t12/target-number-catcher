@@ -4,7 +4,7 @@
 **File:** `math-game.html`
 
 ## 🌐 Play Online
-https://wcheng-t12.github.io/Target_Number_Catcher/
+https://wcheng-t12.github.io/target-number-catcher/
 
 
 ## 📖 About
